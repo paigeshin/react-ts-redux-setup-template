@@ -4,6 +4,10 @@
 npm install --save-exact @types/react-redux@7.1.15 axios@0.21.1 react-redux@7.2.2 redux@4.0.0 redux-thunk@2.3.0
 ```
 
+# Doc
+
+[Redux Store Design Guide](https://www.notion.so/Redux-Store-Design-Guide-2a314a08064844ecbbd7463d7b40239b)
+
 # Process
 
 1. action-types (constants for actions)
